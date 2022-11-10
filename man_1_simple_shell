@@ -10,7 +10,7 @@ hsh\fR \- simple UNIX command interpreter
 soda\fR [\fIfilename\fR]
 
 .SH COPYRIGHT
-soda is Copyright (C) 2022 by Ake Samuel and Saka Muhammed Jamiu
+hsh is Copyright (C) 2022 by Ake Samuel and Saka Muhammed Jamiu
 
 .SH DESCRIPTION
 hsh\fR is a sh-compatible command language interpreter that executes commands read from the standard input or from a file.
